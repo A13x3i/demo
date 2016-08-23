@@ -1,2 +1,11 @@
-Tutorials Point is giving self learning content
-to teach the world in simple and easy way!!!!!
+ics_apps:
+  ics-tms-web: ics-tms-web-3.0.34.war
+  tms-api: tms-api-3.5.21.war
+  tms-software: tms-software-3.5.14.war
+  tms-terminal-info: tms-terminal-info-3.5.5.war
+  ics-job: ics-job-3.5.4.war
+  ics-device-auth: ics-device-auth-3.5.3.war
+  ics-data-upload: ics-data-upload-3.5.2.war
+  ics-alarm-rules: ics-alarm-rules-3.5.3.war
+  ics-state-service: ics-state-service-3.5.2.war
+  ics-notification-service: ics-notification-service-3.5.4.war
