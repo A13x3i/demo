@@ -1,5 +1,5 @@
 # version S39 as at 17/8/2016
-ics_tms_web=ics-tms-web-3.0.35.war
+ics_tms_web=ics-tms-web-3.0.34.war
 tms_api=tms-api-3.5.21.war
 tms_software=tms-software-3.5.14.war
 tms_terminal_info=tms-terminal-info-3.5.5.war
