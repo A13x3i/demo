@@ -1,0 +1,11 @@
+# version S39 as at 17/8/2016
+ics_tms_web=ics-tms-web-3.0.35.war
+tms_api=tms-api-3.5.21.war
+tms_software=tms-software-3.5.14.war
+tms_terminal_info=tms-terminal-info-3.5.5.war
+ics_job=ics-job-3.5.4.war
+ics_device_auth=ics-device-auth-3.5.3.war
+ics_data_upload=ics-data-upload-3.5.2.war
+ics_alarm_rules=ics-alarm-rules-3.5.3.war
+ics_state_service=ics-state-service-3.5.2.war
+ics_notification_service=ics-notification-service-3.5.4.war
