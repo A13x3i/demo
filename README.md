@@ -2,4 +2,4 @@
 
 Demo project
 
-Trial of jira
+Trial of jira and smart commits (currently off)
